@@ -40,6 +40,9 @@ As we worked on the website, we found ourselves learning a lot about web design 
 
 Lastly, creating the aircraft emergency landing website was a fulfilling experience for our group. It allowed us to showcase our skills and creativity while also learning new concepts and techniques. We are proud of the final product and look forward to continuing to improve our web design and development skills as a team.
 
+## Video Creation
+
+To create the video, we combined certain clips of real flights going through heavy turbulence, as well as taking off and landing, and managed to cut them up in a way that synced with our audio. The challenge was to find clips that were consistent throughout the whole vid, as well as ones that conveyed the emergency that the plane in our audio was going through. We wanted to have a visual representation of our audio creation to make the story feel more engaging and almost like a short film or story. We wanted to make the clips show enough to imply what was going on in the audio, without taking away from the audio's main impact on the listener.
 
 # Reflection/Evaluation
 This project had various stages in the process of creation starting from brainstorming, storyline creation, and script to finding sound effects, recording sounds, editing sounds together to fit the theme, and website creation to depict the story of the soundscape. We started with creating the soundscape which helped us reach our final outcome. Listening to sound effects and recording them helped us design the website effectively and efficiently in the best way to represent the soundscape. Our expectations and goals were met, and we were able to execute the soundscape we had in mind as well as the vision of our website to correspond with and host our soundscape.  
