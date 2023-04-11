@@ -285,6 +285,7 @@ nav li a:hover:after {
     flex-direction: column;
     margin-top: 10px;
     margin-left: 20px;
+    padding-right: 50px;
 }
 
 .info h1{
@@ -327,3 +328,4 @@ body {
         opacity: 1;
     }
 }
+
