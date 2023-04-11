@@ -26,6 +26,7 @@ Original Recordings:
 - Pilot: Snehil
 - Girl on the phone: Alaa
 - Passengers: Rose
+
 The challenge of creating the soundscape for our prject lies in creating an immersive and realistic experience through sound：How to integrate the audio that we recorded with the airplane cabin background sound that we gathered from the internet through audio processing, and how to meet people's expectations of airplane announcement etc. 
 
 
