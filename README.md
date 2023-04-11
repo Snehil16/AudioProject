@@ -32,6 +32,14 @@ The challenge of creating the soundscape for our prject lies in creating an imme
 
 ## Website Creation
 
+Creating a website using HTML, CSS, and JavaScript was an exhilarating experience for our group. The website we designed was centered around an aircraft's emergency landing, and we chose a plane on a runway as the theme. The website's design aesthetic was clean, modern, and sleek, with interactive features such as a flipping title and a hamburger dropdown menu effect.
+
+One of the most challenging aspects of creating the website was designing the animations and interactions. For instance, we had to use different animations from w3schools to achieve the desired fading in of text when the page loaded. Additionally, we had to figure out how to animate the various sections in the menu list to ensure that they were both functional and visually appealing.
+
+As we worked on the website, we found ourselves learning a lot about web design and development. We discovered that attention to detail was crucial in creating a seamless and visually pleasing user experience. We also realized the importance of planning and testing every aspect of the website to ensure that it worked correctly.
+
+Lastly, creating the aircraft emergency landing website was a fulfilling experience for our group. It allowed us to showcase our skills and creativity while also learning new concepts and techniques. We are proud of the final product and look forward to continuing to improve our web design and development skills as a team.
+
 
 # Reflection/Evaluation
 This project had various stages in the process of creation starting from brainstorming, storyline creation, and script to finding sound effects, recording sounds, editing sounds together to fit the theme, and website creation to depict the story of the soundscape. We started with creating the soundscape which helped us reach our final outcome. Listening to sound effects and recording them helped us design the website effectively and efficiently in the best way to represent the soundscape. Our expectations and goals were met, and we were able to execute the soundscape we had in mind as well as the vision of our website to correspond with and host our soundscape.  
