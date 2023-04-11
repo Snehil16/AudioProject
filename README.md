@@ -46,3 +46,10 @@ To create the video, we combined certain clips of real flights going through hea
 
 # Reflection/Evaluation
 This project had various stages in the process of creation starting from brainstorming, storyline creation, and script to finding sound effects, recording sounds, editing sounds together to fit the theme, and website creation to depict the story of the soundscape. We started with creating the soundscape which helped us reach our final outcome. Listening to sound effects and recording them helped us design the website effectively and efficiently in the best way to represent the soundscape. Our expectations and goals were met, and we were able to execute the soundscape we had in mind as well as the vision of our website to correspond with and host our soundscape.  
+
+# References
+
+- [Video 1](https://www.youtube.com/watch?v=OiRt1WbrRc8&ab_channel=ABitOfEverything)
+- [Video 2](https://www.youtube.com/watch?v=y1pCGTWHr6E&ab_channel=Jo%C3%A3oSpeglich)
+- [Video 3](https://www.youtube.com/watch?v=COfN7nVHpD8&t=615s&ab_channel=NonstopDan)
+- [Sound Effects](https://pixabay.com/sound-effects/search/aircraft/)
